@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Parth Ajudiya  
 
-## 🌟 Tech & Team Lead | Web Developer | Project Manager 
+## 🌟 Fullstack Developer | Tech & Team Lead | Project Manager
 
 ### 🌐 **Your Go-To Developer for Scalable, Modern, and Efficient Web Solutions**  
 With **9+ years of experience**, I specialize in developing seamless, scalable, high-performance and innovative web solutions that empower businesses to thrive in the digital world.
